@@ -1,8 +1,8 @@
 # Obsidian Dark
 
-PhpStorm theme optimized for Dracula UI theme.
-
 [![GitHub license][License img]][License src]
+
+PhpStorm theme optimized for Dracula UI theme.
 
 ## HTML
 ![HTML Screenshot](/screenshots/html.jpg)
