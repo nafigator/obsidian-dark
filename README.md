@@ -2,7 +2,7 @@
 
 PhpStorm theme optimized for Dracula UI theme.
 
-[![GitHub license][License img]][License src] [![GitHub release][Release img]]
+[![GitHub license][License img]][License src]
 
 ## HTML
 ![HTML Screenshot](/screenshots/html.jpg)
