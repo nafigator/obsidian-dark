@@ -1,5 +1,4 @@
-<scheme name="Obsidian-Dark" version="1.1" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+<scheme name="Obsidian-Dark" version="2" parent_scheme="Default">
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
