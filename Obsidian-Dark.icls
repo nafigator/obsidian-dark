@@ -1,4 +1,4 @@
-<scheme name="Obsidian-Dark" version="2" parent_scheme="Default">
+<scheme name="Obsidian-Dark" version="3" parent_scheme="Default">
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -371,6 +371,12 @@
         <option name="FOREGROUND" value="99cc00" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="729fcf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value />
     </option>
@@ -405,6 +411,12 @@
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="a42325" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="729fcf" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
