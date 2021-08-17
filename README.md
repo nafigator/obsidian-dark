@@ -4,6 +4,9 @@
 
 PhpStorm theme optimized for Dracula UI theme.
 
+## Go
+![Go screenshot](/screenshots/go.png)
+
 ## HTML
 ![HTML screenshot](/screenshots/html.jpg)
 
