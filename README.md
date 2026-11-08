@@ -5,26 +5,26 @@
 PhpStorm theme optimized for Dracula UI theme.
 
 ## Go
-![Go screenshot](/screenshots/go.png)
+![Go screenshot](/.assets/go.png)
 
 ## HTML
-![HTML screenshot](/screenshots/html.jpg)
+![HTML screenshot](/.assets/html.jpg)
 
 ## CSS
-![CSS screenshot](/screenshots/css.jpg)
+![CSS screenshot](/.assets/css.jpg)
 
 ## JS
-![JS screenshot](/screenshots/js.jpg)
+![JS screenshot](/.assets/js.jpg)
 
 ## PHP
-![PHP screenshot](/screenshots/php.jpg)
+![PHP screenshot](/.assets/php.jpg)
 
 # Installation
 1. Download Obsidian-Dark.icls
 2. Open Settings window (`Ctrl+Alt+S`)
 3. Editor -> Color Scheme -> Import Scheme
 
-![Settings screenshot](/screenshots/install.jpg)
+![Settings screenshot](/.assets/install.jpg)
 
   [License img]: https://img.shields.io/badge/license-MIT-brightgreen.svg
   [License src]: https://tldrlegal.com/license/mit-license
