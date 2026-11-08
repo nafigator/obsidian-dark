@@ -1,27 +1,38 @@
 <scheme name="Obsidian-Dark" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">GoLand</property>
+    <property name="ideVersion">2026.3.0.0</property>
+    <property name="originalScheme">Obsidian-Dark</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="9933" />
-    <option name="CARET_COLOR" value="c1cbd2" />
-    <option name="CARET_ROW_COLOR" value="252b2e" />
+    <option name="ADDED_LINES_COLOR" value="009933" />
+    <option name="CARET_COLOR" value="C1CBD2" />
+    <option name="CARET_ROW_COLOR" value="252B2E" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="333333" />
-    <option name="FILESTATUS_ADDED" value="aaf00" />
-    <option name="FILESTATUS_MODIFIED" value="ffffff" />
-    <option name="FILESTATUS_addedOutside" value="2bff00" />
-    <option name="GUTTER_BACKGROUND" value="3f4b4e" />
-    <option name="INDENT_GUIDE" value="343f41" />
-    <option name="LEFT_GUTTER_BACKGROUND" value="3f4b4e" />
-    <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="FILESTATUS_ADDED" value="0AAF00" />
+    <option name="FILESTATUS_MODIFIED" value="FFFFFF" />
+    <option name="FILESTATUS_addedOutside" value="2BFF00" />
+    <option name="GUTTER_BACKGROUND" value="3F4B4E" />
+    <option name="INDENT_GUIDE" value="343F41" />
+    <option name="LEFT_GUTTER_BACKGROUND" value="3F4B4E" />
+    <option name="LINE_NUMBERS_COLOR" value="81969A" />
     <option name="LOOKUP_COLOR" value="333333" />
-    <option name="METHOD_SEPARATORS_COLOR" value="464f53" />
+    <option name="METHOD_SEPARATORS_COLOR" value="464F53" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
     <option name="SELECTED_INDENT_GUIDE" value="333333" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="1b1b1b" />
+    <option name="SELECTED_TEARLINE_COLOR" value="FFFFFF" />
+    <option name="SELECTION_BACKGROUND" value="1B1B1B" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="666666" />
     <option name="WHITESPACES" value="" />
