@@ -2,6 +2,7 @@
 extend-exclude = ["*golangci.*","**/vendor/*",".git",".idea","**/.config/*","typos",".assets"]
 
 [default.extend-identifiers]
-ba = "ba"
 
 [default.extend-words]
+Darcula = "Darcula"
+ba = "ba"

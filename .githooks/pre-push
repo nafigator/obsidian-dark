@@ -11,7 +11,7 @@ download_bash_helpers() {
 	echo 'Installing bash-helpers'
 
 	mkdir -p "$HELPERS_DIR" || return 1
-	curl -fsSL --retry 3 -m 7 -o "$HELPERS_LIB" "$HELPERS_URL" || return 1
+	curl -fsSL --retry 3 -m 30 -o "$HELPERS_LIB" "$HELPERS_URL" || return 1
 }
 
 init_bash_helpers() {
