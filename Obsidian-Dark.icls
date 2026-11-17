@@ -842,6 +842,24 @@
         <option name="FOREGROUND" value="d955c1" />
       </value>
     </option>
+    <option name="MARKDOWN_CODE_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_FENCE">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+    <option name="MARKDOWN_CODE_SPAN">
+      <value>
+        <option name="FOREGROUND" value="a9a9a9" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f3db2e" />
