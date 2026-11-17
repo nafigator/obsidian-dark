@@ -26,7 +26,7 @@
     <option name="GUTTER_BACKGROUND" value="3F4B4E" />
     <option name="INDENT_GUIDE" value="343F41" />
     <option name="LEFT_GUTTER_BACKGROUND" value="3F4B4E" />
-    <option name="LINE_NUMBERS_COLOR" value="81969A" />
+    <option name="LINE_NUMBERS_COLOR" value="8A9A9D" />
     <option name="LOOKUP_COLOR" value="333333" />
     <option name="METHOD_SEPARATORS_COLOR" value="464F53" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
@@ -1228,7 +1228,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff0000" />
+        <option name="FOREGROUND" value="ff6a6a" />
         <option name="BACKGROUND" value="333333" />
       </value>
     </option>
