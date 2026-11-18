@@ -693,9 +693,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="292929" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -842,22 +840,28 @@
         <option name="FOREGROUND" value="d955c1" />
       </value>
     </option>
+    <option name="MARKDOWN_ALERT_TITLE_NOTE">
+      <value>
+        <option name="FOREGROUND" value="729fcf" />
+      </value>
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE">
+      <value />
+    </option>
+    <option name="MARKDOWN_BLOCK_QUOTE_MARKER" baseAttributes="DEFAULT_KEYWORD" />
     <option name="MARKDOWN_CODE_BLOCK">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
-        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_FENCE">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
-        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN">
       <value>
         <option name="FOREGROUND" value="a9a9a9" />
-        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
